@@ -6,4 +6,4 @@ while True:
         break
     except ValueError:
         print("Erro: Idade deve ser um numero inteiro, animal.")
-        Idade = input("Digite sua idade: ");    
+        Idade = input("Digite sua idade: ");
