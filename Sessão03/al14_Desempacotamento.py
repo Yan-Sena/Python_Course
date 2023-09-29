@@ -1,5 +1,5 @@
 #HELLO WORLD
-Lista = ['Sweetie Foxie','Mia Kahlifa','Ashlei Albran']
+Lista = ['Fernanda','Mia','Ashlei']
 
 nome1, nome2, nome3 = Lista
 
